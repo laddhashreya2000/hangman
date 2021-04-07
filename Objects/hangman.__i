@@ -1,0 +1,1 @@
+"hangman.c" OPTIMIZE (8,SPEED) BROWSE DEBUG OBJECTEXTEND PRINT(.\Listings\hangman.lst) TABS (2) OBJECT(.\Objects\hangman.obj)
