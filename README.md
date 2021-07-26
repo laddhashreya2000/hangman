@@ -1,6 +1,19 @@
 # Hangman Game on 8051 microcontroller
 This repository contains the code for playing hangman game on pt-51 microcontroller (EE337 Course Project).
 
+## Requirements
+
+Software
+- Keil uvision
+- Flip 3.4.7
+- Realterm
+
+Hardware
+- pt-51 board
+- UART module
+- LCD
+- Jumpers
+
 ## Usage
 Clone this repository 
 
@@ -8,7 +21,7 @@ Clone this repository
 > git clone https://github.com/laddhashreya2000/hangman.git
 > cd hangman
 ```
-Download Keil uvision, Flip 3.4.7 and Realterm. Open the project in Keil and compile it to get a hex file [hangman.hex](Objects/hangman.hex). Burn it on pt-51 microcontroller using Flip software. Interface the UART module with the laptop using Realterm. 
+Open the project in Keil and compile it to get a hex file [hangman.hex](Objects/hangman.hex). Burn it on pt-51 microcontroller using Flip software. Interface the UART module with the laptop using Realterm. 
 
 ## How to Play
 
